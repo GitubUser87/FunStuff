@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Content/FirstPerson/Blueprints/Function_BP.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Plugins/LockPuzzle/Content/Lock_BP.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Plugins/LockPuzzle/Content/LockWheel_BP.uasset",
 				"C:/Users/D3303414/Source/FunStuff/FunStuffToMake/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
