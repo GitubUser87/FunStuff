@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CameraSystem",
+	"Description": "A series of cameras that can be used to navigate the map.",
+	"Category": "Other",
+	"CreatedBy": "James Bainbridge",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
