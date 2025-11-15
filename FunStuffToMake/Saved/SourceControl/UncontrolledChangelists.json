@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Content/FirstPerson/Blueprints/Function_BP.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Plugins/LockPuzzle/Content/Lock_BP.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Plugins/LockPuzzle/Content/LockWheel_BP.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Plugins/CameraSystem/Content/CameraSystem_BP.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/LI/KJT2STOQNO2C22E01IATBM.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MH/QX96JWYQSC1IVL0497Y7FP.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Plugins/CameraSystem/Content/CameraButton_BP.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Plugins/CameraSystem/Content/PlayerCodeBackup_BP.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/3X/ATIZGARRO079ICPHGLXR1Q.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/FR/K22CZ2M42CS5V1298A0JUU.uasset",
+				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Plugins/CameraSystem/Content/DoorWithPeep_BP.uasset",
 				"C:/Users/D3303414/Source/FunStuff/FunStuffToMake/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/D3303414/Source/FunStuff/FunStuffToMake/Plugins/LockPuzzle/Content/Lock_BP.uasset",
 				"C:/Users/D3303414/Source/FunStuff/FunStuffToMake/Plugins/CameraSystem/Content/CameraSystem_BP.uasset",
@@ -13,11 +26,7 @@
 				"C:/Users/D3303414/Source/FunStuff/FunStuffToMake/Plugins/CameraSystem/Content/CameraButton_BP.uasset",
 				"C:/Users/D3303414/Source/FunStuff/FunStuffToMake/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/3X/ATIZGARRO079ICPHGLXR1Q.uasset",
 				"C:/Users/D3303414/Source/FunStuff/FunStuffToMake/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/MH/QX96JWYQSC1IVL0497Y7FP.uasset",
-				"C:/Users/D3303414/Source/FunStuff/FunStuffToMake/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/Q1/LQQLTVI7SDMKULTDYR33Q9.uasset",
-				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Content/FirstPerson/Blueprints/Function_BP.uasset",
-				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Plugins/LockPuzzle/Content/Lock_BP.uasset",
-				"C:/Users/jabai/Source/FunStuff/FunStuffToMake/Plugins/LockPuzzle/Content/LockWheel_BP.uasset"
+				"C:/Users/D3303414/Source/FunStuff/FunStuffToMake/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/Q1/LQQLTVI7SDMKULTDYR33Q9.uasset"
 			]
 		}
 	]
